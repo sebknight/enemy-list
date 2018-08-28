@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+}
+
+.jumbotron {
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 60vw;
+}
