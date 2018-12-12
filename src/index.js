@@ -14,7 +14,7 @@ class App extends Component {
                 },
                 {
                     id: 2,
-                    enemy: 'Global capitalism'
+                    enemy: 'Wet socks'
                 },
                 {
                     id: 3,
